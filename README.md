@@ -1,6 +1,9 @@
-### Hi there 👋
-![alt text](https://c.tenor.com/jdd2ekjrIWcAAAAC/captcha-google.gif)
+### Hi there! 👋
+### It's so glad you visited me!
+### I'm passionate about the best and newest technologies for web and mobile development.
+### Tireless, committed and focused on helping with solutions for all sizes of challenges!
 
+![alt text](https://c.tenor.com/jdd2ekjrIWcAAAAC/captcha-google.gif)
 #
 Leandro Massari
 
